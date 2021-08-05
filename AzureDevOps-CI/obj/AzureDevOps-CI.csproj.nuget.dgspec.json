@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\ianm\\LocalRepo\\Ex_Files_Azure_Dev_Ops_WINDOWS\\Exercise Files\\CH01\\01_02\\AzureDevOps-CI\\AzureDevOps-CI\\AzureDevOps-CI.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\ianm\\LocalRepo\\Ex_Files_Azure_Dev_Ops_WINDOWS\\Exercise Files\\CH01\\01_02\\AzureDevOps-CI\\AzureDevOps-CI\\AzureDevOps-CI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\ianm\\LocalRepo\\Ex_Files_Azure_Dev_Ops_WINDOWS\\Exercise Files\\CH01\\01_02\\AzureDevOps-CI\\AzureDevOps-CI\\AzureDevOps-CI.csproj",
+        "projectName": "AzureDevOps-CI",
+        "projectPath": "c:\\Users\\ianm\\LocalRepo\\Ex_Files_Azure_Dev_Ops_WINDOWS\\Exercise Files\\CH01\\01_02\\AzureDevOps-CI\\AzureDevOps-CI\\AzureDevOps-CI.csproj",
+        "packagesPath": "C:\\Users\\ianm\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ianm\\LocalRepo\\Ex_Files_Azure_Dev_Ops_WINDOWS\\Exercise Files\\CH01\\01_02\\AzureDevOps-CI\\AzureDevOps-CI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ianm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
